@@ -1,0 +1,4 @@
+../Core/Src/delay.c:8:6:delay_init	16	static
+../Core/Src/delay.c:16:6:delay_us	24	static
+../Core/Src/delay.c:33:6:delay_ms	24	static
+../Core/Src/delay.c:52:6:HAL_Delay	16	static

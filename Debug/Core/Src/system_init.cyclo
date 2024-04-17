@@ -1,0 +1,2 @@
+../Core/Src/system_init.c:7:6:softRebootInit	5
+../Core/Src/system_init.c:46:6:slow_softRebootInit	3
